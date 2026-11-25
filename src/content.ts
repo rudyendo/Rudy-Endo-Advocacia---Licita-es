@@ -1,3 +1,5 @@
+import heroLicitacoesImage from './assets/images/hero_licitacoes_banner_1795638512870.jpg';
+
 export const SITE_CONFIG = {
   // Preencha com o endpoint do seu formulário (Formspree, Make, Brevo, etc.)
   FORM_ENDPOINT: '',
@@ -22,7 +24,7 @@ export const SITE_CONFIG = {
     logoUrl: '/assets/aistudio/logo_3ea6d8e0.png',
     aboutImageUrl: '/assets/aistudio/rudy-endo_750fad2e.jpeg',
     aboutImageAlt: 'Dr. Rudy Endo, advogado de licitações e contratos públicos em Natal/RN',
-    heroImageUrl: '/hero-licitacoes.jpg',
+    heroImageUrl: heroLicitacoesImage,
     ogImageUrl: '/og-licitacoes.jpg',
   },
 
