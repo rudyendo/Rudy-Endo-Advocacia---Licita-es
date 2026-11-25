@@ -20,10 +20,10 @@ export const Hero: React.FC = () => {
             height={900}
             referrerPolicy="no-referrer"
             onError={() => setImgError(true)}
-            className="w-full h-full object-cover opacity-30"
+            className="w-full h-full object-cover opacity-75 brightness-110"
           />
         )}
-        <div className="absolute inset-0 bg-gradient-to-tr from-[#1A1A1A] via-[#1A1A1A]/90 to-[#1A1A1A]/65" />
+        <div className="absolute inset-0 bg-gradient-to-r from-[#1A1A1A]/90 via-[#1A1A1A]/65 to-[#1A1A1A]/20" />
       </div>
 
       <div className="container mx-auto px-5 sm:px-6 relative z-10 max-w-6xl">
