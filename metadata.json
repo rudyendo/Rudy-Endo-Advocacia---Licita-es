@@ -1,0 +1,9 @@
+{
+  "name": "Rudy Endo Advocacia - Licitações",
+  "description": "Assessoria jurídica especializada em licitações e contratos administrativos sob a liderança do Dr. Rudy Endo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
